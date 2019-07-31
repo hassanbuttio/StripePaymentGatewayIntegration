@@ -1,0 +1,6 @@
+Step one: install composer from getcomposer
+Step two: open you git command line and type
+composer require stripe/stripe-php
+
+Step three: create your stripe account and create your secret api key and publishable key
+and then enjoy payment gateway checkout
